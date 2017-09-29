@@ -1,0 +1,10 @@
+{
+  "name": "SmallHttp",
+  "keywords": "http",
+  "description": "Small HTTP server",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bergos/SmallHttp.git"
+  },
+  "frameworks": "arduino"
+}
